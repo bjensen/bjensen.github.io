@@ -1,19 +1,19 @@
-title:            Site Title
-tagline:          A short tagline
+title:            The adventures of a micropreneur
+tagline:          Whos that spy?
 description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-site.com
+url:              http://brianthemicropreneur.com/
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Brian Jensen
   avatar:         bio-photo.jpg
   bio:            "Describe your self."
-  email:          your@email.com
+  email:          brianj@itnord.net
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
+  twitter:       bjensen 
   facebook:       
-  github:         
+  github:        bjensen 
   linkedin:       
   instagram:      
   lastfm:         
